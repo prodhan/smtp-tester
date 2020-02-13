@@ -1,0 +1,17 @@
+{
+    "name": "prodhan/phpmail",
+    "description": "php email using smtp",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Ariful Islam",
+            "email": "hello@ariful.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "dev-master",
+        "ddeboer/imap": "dev-master",
+        "webklex/php-imap": "^1.0@dev"
+    }
+}
