@@ -1,6 +1,6 @@
 {
-    "name": "prodhan/phpmail",
-    "description": "php email using smtp",
+    "name": "prodhan/smtp-tester",
+    "description": "php smtp tester using phpmailer",
     "license": "GPL",
     "authors": [
         {
